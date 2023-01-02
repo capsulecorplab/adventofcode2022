@@ -1,3 +1,10 @@
+# Pharo VM, wrappers, & cache folder
+pharo
+pharo-ui
+pharo-vm/
+pharo-local/
+*.sources
+
 # changes file
 *.changes
 *.chg
